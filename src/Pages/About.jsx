@@ -1,4 +1,4 @@
-import LoadingSpinner from '../components/LoadingSpinner'
+import LoadingSpinner from '../Components/LoadingSpinner'
 import { useFetch } from '../hooks/useFetch'
 
 function About() {
